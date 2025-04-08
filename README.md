@@ -1,5 +1,6 @@
 🧠 FurbyAI – A Smart Assistant with Plastic Ears
 Author: Nicholas Wise
+![1000002108](https://github.com/user-attachments/assets/6cea2a25-5571-48a6-8943-82612d93e4bc)
 
 
 Furby AI is a custom-built smart assistant housed inside a retro Furby animatronic. This project combines hardware hacking and AI to give new life to a nostalgic toy—transforming it into a fully interactive voice assistant. From modifying the electronics to writing all the software from scratch, every aspect of the project was personally built and engineered, with guidance from the UMKC Robotics team.
@@ -40,3 +41,4 @@ Python socket library for device-to-device messaging
 To avoid sending continuous audio to Google services, FurbyAI will soon include offline wake word detection using Porcupine by Picovoice. Once Furby hears “Hey Furby,” it will begin listening for prompts.
 
 📸 Project Photos
+![20250408_140057](https://github.com/user-attachments/assets/ef5d4d7c-330a-4ce5-a2b9-17c2fdb3ec90)
