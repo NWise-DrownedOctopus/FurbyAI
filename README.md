@@ -5,5 +5,17 @@ Furby AI is a project where I have adapted and modified an exisiting Furby toy a
 ---
 Tech Stack:
 - Furby "Body"
-  - Rasberri Pi 4: Used to control the Body of the furby, as well as audio input and output.
-  - Desktop Linux (Ubuntu) Machine: Used to run DeepSeek-r1(1.5b) with Ollama for an offline LLM to process user prompts
+  - Rasberri Pi 4
+    - Furby Animatronic
+    - Audio I/O
+    - Google Text To Speech
+    - Google Speech To Text
+   
+- Furby "Brain"
+  - Desktop Linux (Ubuntu) Machine
+    - DeepSeek-r1(1.5b)
+    - Ollama
+
+- Furby "Spine" (Connection between Body and Brain)
+  - Python Socket Library
+    
