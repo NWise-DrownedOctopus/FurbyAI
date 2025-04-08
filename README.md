@@ -1,7 +1,3 @@
-This is already a solid start! You've got a clear structure, great photos, and a good breakdown of the tech. Below is a more polished, engaging version of your README—keeps all the core info but gives it a little more voice and flow, plus improved formatting and some small fixes (like “Raspberry Pi” spelling 😄):
-
----
-
 # 🧠 FurbyAI – A Smart Assistant with Plastic Ears
 
 ### Author: Nicholas Wise  
@@ -10,7 +6,7 @@ This is already a solid start! You've got a clear structure, great photos, and a
 
 ![Furby Front View](https://github.com/user-attachments/assets/040fdc10-15df-4a84-9111-e49f46fd94e7)
 
-**FurbyAI** is what happens when you combine a retro toy, modern AI, and some good old-fashioned hardware hacking. This project transforms a classic Furby animatronic into a fully interactive smart assistant—complete with real-time voice recognition, AI-generated responses, and blinking eyelids that watch your every move.
+Furby AI is a custom-built smart assistant housed inside a retro Furby animatronic. This project combines hardware hacking and AI to give new life to a nostalgic toy—transforming it into a fully interactive voice assistant. From modifying the electronics to writing all the software from scratch, every aspect of the project was personally built and engineered, with guidance from the UMKC Robotics team.
 
 All hardware modifications and software development were done by me, with guidance from the UMKC Robotics team.
 
@@ -51,9 +47,3 @@ To avoid sending continuous audio to Google services, FurbyAI will soon include 
 ![Furby Side View](https://github.com/user-attachments/assets/75d70d56-7885-410f-8e29-a12befb23476)
 
 ---
-
-If you have questions, want to contribute ideas, or just want to say hi to Furby, feel free to open an issue or drop a message!
-
----
-
-Let me know if you want to include a demo video section, a to-do list, or some setup instructions later on!
