@@ -1,5 +1,6 @@
 # FurbyAI Project Overview
 ### Author: Nicholas Wise
+---
 Furby AI is a project where I have adapted and modified an exisiting Furby toy animotronic to be used as a personal assitant. All of the code, and all of the hardwear was modified and set up by myself, with advising from the UMKC Robotics team.
 ---
 The Current implimentation involves:
