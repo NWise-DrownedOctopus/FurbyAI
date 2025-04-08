@@ -8,8 +8,6 @@
 
 Furby AI is a custom-built smart assistant housed inside a retro Furby animatronic. This project combines hardware hacking and AI to give new life to a nostalgic toy—transforming it into a fully interactive voice assistant. From modifying the electronics to writing all the software from scratch, every aspect of the project was personally built and engineered, with guidance from the UMKC Robotics team.
 
-All hardware modifications and software development were done by me, with guidance from the UMKC Robotics team.
-
 ---
 
 ## 🛠️ Tech Breakdown
@@ -18,7 +16,7 @@ All hardware modifications and software development were done by me, with guidan
 Powered by a **Raspberry Pi 4**, the Furby's animatronic parts have been reanimated to receive input and deliver audio responses.
 
 - Raspberry Pi 4
-- Modified Furby animatronic (motors, speaker, mic)
+- Modified Furby animatronic (motors, power source)
 - Audio input/output
 - Google Cloud:
   - **Speech-to-Text** for transcription
