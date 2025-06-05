@@ -34,13 +34,6 @@ The communication between the Furby's body and its AI brain is handled via light
 
 - Python `socket` library for device-to-device messaging
 
----
-
-## 🔊 Wake Word Support (In Progress)
-To avoid sending continuous audio to Google services, FurbyAI will soon include **offline wake word detection** using [Porcupine by Picovoice](https://picovoice.ai/platform/porcupine/). Once Furby hears “Hey Furby,” it will begin listening for prompts.
-
----
-
 ## 📸 Project Photos
 ![Furby Side View](https://github.com/user-attachments/assets/75d70d56-7885-410f-8e29-a12befb23476)
 
