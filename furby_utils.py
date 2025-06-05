@@ -9,6 +9,7 @@ from google.cloud import texttospeech as tts
 from google.cloud import speech
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/drowned0octopus/FurbyProject/furbyproject-714197248f2d.json"
+MOTOR_GPIO_HEAD = 26
 
 def runMotorTimed(rtime, startDelay):
 	# Trying to run motor for set durationg
@@ -18,10 +19,10 @@ def runMotorTimed(rtime, startDelay):
 	
 	# Here we should flip the swith, wait the amount of time, and then flip the switch again
 	time.sleep(startDelay)
-	GPIO.output(26,True)
+	GPIO.output(MOTOR_GPIO_HEAD,True)
 	time.sleep(runTime)
 
-	GPIO.output(26,False)
+	GPIO.output(MOTOR_GPIO_HEAD,False)
 	
 def powerGPIOheadTimed(rtime, GPIOhead):
 	# Trying to run motor for set durationg
